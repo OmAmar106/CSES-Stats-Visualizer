@@ -87,7 +87,7 @@ function Output() {
   };
 
   return (
-    <div className="p-12 text-white bg-[#343541] min-h-screen">
+    <div className="p-12 text-white bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] min-h-screen">
       <button
         onClick={() => window.location.href = '/'}
         className="fixed top-6 left-6 bg-white text-black font-semibold px-4 py-2 rounded hover:bg-gray-200 transition"
