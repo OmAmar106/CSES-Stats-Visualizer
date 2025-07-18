@@ -12,9 +12,11 @@ Live link: https://cses-stats-visualizer.vercel.app
 
 ## Screenshots
 
+
 <img width="1856" height="929" alt="Screenshot from 2025-07-18 12-37-00" src="https://github.com/user-attachments/assets/9075d55d-0ae4-48fc-a5a8-aa3b0a2576a0" />
 
-<img width="1856" height="929" alt="Screenshot from 2025-07-18 12-37-40" src="https://github.com/user-attachments/assets/636b5a3f-60e8-4451-ba7a-4706bc2bbc25" />
+
+<img width="1856" height="929" alt="image" src="https://github.com/user-attachments/assets/162cbd92-992a-4d0b-881a-aa9cb4a1db82" />
 
 ## Installation
 
