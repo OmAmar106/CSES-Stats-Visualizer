@@ -8,7 +8,7 @@ A web app to visualize your progress on the [CSES Problem Set](https://cses.fi/p
 - 📊 Visual breakdown of each section: Solved, Attempted, and Remaining
 - 🥧 Interactive semi-circular pie charts
 
-Live link: https://cses-stats-visualizer.vercel.app/output
+Live link: https://cses-stats-visualizer.vercel.app
 
 ## Screenshots
 
